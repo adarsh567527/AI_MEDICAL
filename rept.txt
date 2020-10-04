@@ -1,0 +1,12 @@
+audio-chunks\chunk1.wav : Welcome to medical diagnosis centre my name is doctor swagata. 
+audio-chunks\chunk2.wav : I am from the analysis of urine sample we have found that you are infected with uti. 
+audio-chunks\chunk3.wav : Urinary tract infection. 
+audio-chunks\chunk4.wav : However the infection doesn't seem to be severe and does we do not recommend any kind of hard medicines or any kind of treatment. 
+audio-chunks\chunk5.wav : That's it if your pain continues after 3 days consider taking 600000/12 twice a day after every meal. 
+audio-chunks\chunk6.wav : Drink lots of water. 
+audio-chunks\chunk7.wav : Your blood pressure appears to be stable by 13580. 
+audio-chunks\chunk8.wav : Heart rate and other parameters to be normal. 
+audio-chunks\chunk9.wav : That's it please be careful what you are eating for next time. 
+audio-chunks\chunk10.wav : Search infection can grow and cause severe damage if left unchecked. 
+
+Full text: Welcome to medical diagnosis centre my name is doctor swagata. I am from the analysis of urine sample we have found that you are infected with uti. Urinary tract infection. However the infection doesn't seem to be severe and does we do not recommend any kind of hard medicines or any kind of treatment. That's it if your pain continues after 3 days consider taking 600000/12 twice a day after every meal. Drink lots of water. Your blood pressure appears to be stable by 13580. Heart rate and other parameters to be normal. That's it please be careful what you are eating for next time. Search infection can grow and cause severe damage if left unchecked. 
